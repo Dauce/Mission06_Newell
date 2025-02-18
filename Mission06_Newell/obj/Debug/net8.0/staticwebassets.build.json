@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Uxs/tcFH+gdFW5AsSW8zgzc6WJwr7OMwEyhB0N/madE=",
+  "Hash": "6L7VRufK9MIFpQnF2ybtJNi9Ff9/w2Jwwet3li1UHro=",
   "Source": "Mission06_Newell",
   "BasePath": "_content/Mission06_Newell",
   "Mode": "Default",
@@ -93,6 +93,25 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+      "Identity": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/wwwroot/img/BaconsaleKate.jpg",
+      "SourceId": "Mission06_Newell",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/wwwroot/",
+      "BasePath": "_content/Mission06_Newell",
+      "RelativePath": "img/BaconsaleKate.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/BaconsaleKate.jpg"
+    },
+    {
       "Identity": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/wwwroot/img/JoelHiltonHeadshot.jpg",
       "SourceId": "Mission06_Newell",
       "SourceType": "Discovered",
@@ -110,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/JoelHiltonHeadshot.jpg"
+    },
+    {
+      "Identity": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/wwwroot/img/JoelPop.jpg",
+      "SourceId": "Mission06_Newell",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/wwwroot/",
+      "BasePath": "_content/Mission06_Newell",
+      "RelativePath": "img/JoelPop.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/JoelPop.jpg"
     },
     {
       "Identity": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/wwwroot/js/site.js",

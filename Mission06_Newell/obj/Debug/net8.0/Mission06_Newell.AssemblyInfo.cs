@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission06_Newell")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+692f5a34745608402b64d5966e0a36d77e481794")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f561288a87907c54b954ef9e8a00077943a20e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission06_Newell")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission06_Newell")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
