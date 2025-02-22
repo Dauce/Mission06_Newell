@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj": {}
+    "/Users/dawsonnewell/Documents/GitHub/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj": {}
   },
   "projects": {
-    "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj": {
+    "/Users/dawsonnewell/Documents/GitHub/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj",
+        "projectUniqueName": "/Users/dawsonnewell/Documents/GitHub/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj",
         "projectName": "Mission06_Newell",
-        "projectPath": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj",
+        "projectPath": "/Users/dawsonnewell/Documents/GitHub/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj",
         "packagesPath": "/Users/dawsonnewell/.nuget/packages/",
-        "outputPath": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/obj/",
+        "outputPath": "/Users/dawsonnewell/Documents/GitHub/Mission06_Newell/Mission06_Newell/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dawsonnewell/.nuget/NuGet/NuGet.Config"

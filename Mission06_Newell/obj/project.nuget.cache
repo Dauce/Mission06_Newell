@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2eaXOu/1MW0=",
+  "dgSpecHash": "IWNXPSL4uLg=",
   "success": true,
-  "projectFilePath": "/Users/dawsonnewell/RiderProjects/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj",
+  "projectFilePath": "/Users/dawsonnewell/Documents/GitHub/Mission06_Newell/Mission06_Newell/Mission06_Newell.csproj",
   "expectedPackageFiles": [
     "/Users/dawsonnewell/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/dawsonnewell/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
